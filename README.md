@@ -1,0 +1,1 @@
+This is the project started on 7/21 to showcase html foundations learned
